@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\TrianguloTest::testsTriangulo":3,"Tests\\TrianguloTest::testsTrianguloFalse":3,"Tests\\TrianguloTest::testsTrianguloassertEquals":4},"times":{"Tests\\TrianguloTest::testsTriangulo":0.008,"Tests\\TrianguloTest::testsTrianguloFalse":0,"Tests\\TrianguloTest::testsTrianguloassertEquals":0}}
